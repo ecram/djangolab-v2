@@ -127,7 +127,7 @@ _2. Instalar Django y configuación en el Entorno Virtual (no salir):_
 	Instalar los siguientes paquetes:
 	$ sudo apt install python3.6
 	Instalar una version LTS de Django 2.2, se recomienda revisar la última version de Django 2.2 en https://www.djangoproject.com/download/
-	$ pip3 install django==2.2.8
+	$ pip3 install django==2.2.8 
 	Verificar la version de Django instalada
 	$ python3 -m django --version
 		> 2.2.8 o superior
